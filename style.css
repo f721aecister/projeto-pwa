@@ -57,3 +57,30 @@ header {
     color: white;
     transform: translateY(-3px); /* Pequeno salto para cima */
 }
+/* Cor de destaque para o botão da PAP */
+.btn-pap {
+    background-color: #2ecc71; /* Verde esmeralda */
+    color: white !important;
+}
+
+/* Estilo para o conteúdo descritivo */
+.pap-content {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.pap-image {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 2px solid #2ecc71;
+}
+
+.pap-text {
+    font-size: 0.9em;
+    line-height: 1.5;
+    color: #bdc3c7;
+}
