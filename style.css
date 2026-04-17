@@ -59,7 +59,7 @@ header {
 }
 /* Cor de destaque para o botão da PAP */
 .btn-pap {
-    background-color: #2ecc71; /* Verde esmeralda */
+    background-color: #3498db; /* Azul */
     color: white !important;
 }
 
@@ -76,7 +76,7 @@ header {
     width: 100%;
     border-radius: 8px;
     margin-bottom: 15px;
-    border: 2px solid #2ecc71;
+    border: 2px solid #3498db;
 }
 
 .pap-text {
